@@ -54,7 +54,10 @@ D Définition du périmètre techno
 		validation du fonctionnement en dev avant validation
 		validation du push en pré prod et validation avec le client
 		validation du push en production auprè de l'admin git
- 
+
+	c. Développeur
+		prise en charge et résolution de tickets/taches
+		
 D. développeur
 	Process
 		Pour chaque ticket/module dans trello (kanban)
