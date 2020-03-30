@@ -14,6 +14,7 @@ B Définition de la cible?
 		Les profs ?
 		Les classes?
 		Les Promo?
+		
 C Définition du produit/service/application
 	Quel Public?
 		Les élèves?
@@ -21,6 +22,7 @@ C Définition du produit/service/application
 		Les classes?
 		Les Promo?
 	Quel Clients ?
+	
 D Définition du périmètre techno
 	Aplli
 	Serveur
@@ -29,19 +31,29 @@ D Définition du périmètre techno
  
 1.initialisation du projet:
  
-	Le projet est initialisé suite a une réunion, l’admin crée le dépôt ainsi que les différentes branches (une branchepar développeur)
-	Le projet est subdivisé par fonctionnalité (module/ticket) et attribués aux développeurs.
-		trello kanban autre
+	Le projet est initialisé suite a une réunion avec les diférentes parties
+		un bref Cahier des Charges et des Processus est défini
+		celui ci liste exhaustivementla liste des fonctionnalités
+	Un compte est créer sur une plateforme de travail (trello kanban dev azure autre)
+		chaque membre s'inscrit au projet en ligne et valide ses accréditation (inscription avec la qualité)
+	à l'issu
+		l’admin crée le dépôt
+	Le projet est subdivisé par fonctionnalité (module/ticket) et attribués aux développeurs plateforme de travail selectioné.
+		
  
  2.définition des rôles:	 
-	 a. admin:
+	a. admin:
 		crée le dépôt
 		Faire les invites à partir d’une liste formatée
 		gère les branches / le dev / la prod ???
+			en relation avec la qualité qui valide avant
 			valide les pull request et les push sur le master
 	 
-	 b. responsable qualité:
-	 validation du fonctionnement en dev avant validation du push en production
+	b. responsable qualité:
+		validation de la cohérance des solutions apportées
+		validation du fonctionnement en dev avant validation
+		validation du push en pré prod et validation avec le client
+		validation du push en production auprè de l'admin git
  
 D. développeur
 	Process
