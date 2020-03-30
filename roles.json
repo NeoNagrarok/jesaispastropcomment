@@ -1,0 +1,17 @@
+{
+    "role" : 
+    [
+        {
+            "project" : 
+            [
+                "toto",
+                "titi"]
+        },
+        {
+            "gitapp" : 
+            [
+                "AdminGit",
+                "Pushers"]
+        }
+    ]
+}
