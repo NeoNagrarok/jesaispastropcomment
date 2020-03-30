@@ -1,8 +1,8 @@
 html {
-  font-size: 0.625em;
-  /* fallback IE8+ */
-  font-size: calc( 1em * 0.625 );
-  /* IE9-IE11 math fixing. See http://bit.ly/1g4X0bX */
+  font-size: 0.625em; /* fallback IE8+ */
+  font-size: calc(
+    1em * 0.625
+  ); /* IE9-IE11 math fixing. See http://bit.ly/1g4X0bX */
 }
 
 /* Box sizing rules */
@@ -93,6 +93,7 @@ address {
     scroll-behavior: auto !important;
   }
 }
+
 /* Text meant only for screen readers. */
 .screen-reader-text {
   border: 0;
@@ -121,11 +122,11 @@ address {
   text-decoration: none;
   top: 5px;
   width: auto;
-  z-index: 100000;
-  /* Above WP toolbar. */
+  z-index: 100000; /* Above WP toolbar. */
 }
 
 /* Image replacement technique 2012 H5BP  - https://css-tricks.com/the-image-replacement-museum/ */
+
 .ir {
   font: 0/0 a;
   color: transparent;
@@ -134,6 +135,7 @@ address {
 }
 
 /* added by pil */
+
 button,
 label,
 img,
@@ -144,17 +146,3 @@ picture {
 [hidden] {
   display: none;
 }
-
-.moduleHeader {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 20vh;
-  width: 100%;
-  color: #e7792f;
-}
-.moduleHeader h1 {
-  text-align: center;
-}
-
-/*# sourceMappingURL=style.css.map */
