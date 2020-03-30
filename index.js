@@ -1,0 +1,1 @@
+import * as module1 from './js/module1.js';
