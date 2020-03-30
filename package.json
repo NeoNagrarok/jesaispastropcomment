@@ -1,0 +1,23 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "# Pour compiler le scss : npm run build",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "sass ./scss/style.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoNagrarok/jesaispastropcomment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeoNagrarok/jesaispastropcomment/issues"
+  },
+  "homepage": "https://github.com/NeoNagrarok/jesaispastropcomment#readme"
+}
