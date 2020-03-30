@@ -72,5 +72,7 @@ D. développeur
 3.déroulement du projet:
 
 Chaque développeur code sa fonctionnalité demander et push sur sa branches
-il peuvent crée des sous-branche pour sous-diviser le projet.Quand ils ont fini leur taches , ils font un pull request qui sera alors étudié
-par le responsable qualité et/ou l’administrateur qui le validera et l’intègrera à la branche master une le contrôle effectuer fois fini.
+il peuvent crée des sous-branche pour sous-diviser le projet.Quand ils ont fini leur taches,
+ils font un pull request qui sera alors étudié par le responsable qualité et/ou
+l’administrateur qui le validera et l’intègrera à la branche master une le contrôle effectuer
+fois fini.
