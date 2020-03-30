@@ -1,8 +1,8 @@
-# WorkflowType pour Git-hub
+WorkflowType pour Git-hub
 
-1. Initialisation du projet 
-2. Définition des rôles
-3. Déroulement du projet 
+1.Initialisation du projet 
+2.Définition des rôles
+3.Déroulement du projet 
 
 A Définition du projet principale
 	Mettre en place un workflow
@@ -10,17 +10,17 @@ A Définition du projet principale
 
 B Définition de la cible?
 	Quel public?
-		* Les élèves?
-		* Les profs ?
-		* Les classes?
-		* Les Promo?
+		Les élèves?
+		Les profs ?
+		Les classes?
+		Les Promo?
 		
 C Définition du produit/service/application
 	Quel Public?
-		* Les élèves?
-		* Les profs ?
-		* Les classes?
-		* Les Promo?
+		Les élèves?
+		Les profs ?
+		Les classes?
+		Les Promo?
 	Quel Clients ?
 	
 D Définition du périmètre techno
