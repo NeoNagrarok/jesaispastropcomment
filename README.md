@@ -1,3 +1,3 @@
 # jesaispastropcomment - test
 
-Si Si je sais !
+# Pour compiler le scss : npm run build
